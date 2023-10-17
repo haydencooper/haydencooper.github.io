@@ -1,4 +1,4 @@
-title: hayden cooper # name of the site
+title: haydenc.dev # name of the site
 author: hayden cooper # name of site's author
 email: hydnwc@gmail.com # email of site's author
 url: haydencooper.github.io # root address of the site
@@ -16,7 +16,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  date_format: "%m-%d-%Y" # customize how date is formatted
   show_description: false # show blog description in home page
 
 sass:
