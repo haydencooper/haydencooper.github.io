@@ -2,13 +2,13 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about me
+  - title: me
     entries:
-      - title: incompetent software engineer
+      - title: software engineer
       - title: based in australia
       - title: 23/24 intern @ atlassian
 
-  - title: find me
+  - title: socials
     entries:
       - title: github
         url: https://haydenc.dev
@@ -24,7 +24,7 @@ entries:
       - title: resume
         url: resume.html
 
-  - title: blog posts
+  - title: blog
     post_list:
       limit: 8
       show_more: true

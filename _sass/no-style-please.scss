@@ -14,19 +14,20 @@ body[a="dark"] { @include dark-appearance; }
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
-html, body { background: #113946; }
+html, body { background: #fff8e7; }
 
 html { height: 100%; }
 
 body {
-  color: #EFEFEF;
+  color: #485a62;
   font-family: monospace;
-  font-size: 16px;
+  font-size: 12px;
   margin: 0;
   line-height: 1.4;
   max-width: 40em;
   min-height: 100%;
   overflow-wrap: break-word;
+
 }
 
 a, a:visited, a:hover, a:active {
