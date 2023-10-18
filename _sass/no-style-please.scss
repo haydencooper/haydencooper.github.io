@@ -14,7 +14,7 @@ body[a="dark"] { @include dark-appearance; }
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
-html, body { background: #96B6C5; }
+html, body { background: #445D48; }
 
 html { height: 100%; }
 
