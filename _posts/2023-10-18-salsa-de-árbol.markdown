@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "hello world"
+title:  "salsa de árbol"
 date:   2023-10-17 12:04:44 +0800
-categories: life
+categories: recipes
 ---
 
-you've found my `first post`
+this will be a recipe
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

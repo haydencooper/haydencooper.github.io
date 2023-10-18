@@ -4,9 +4,23 @@
 entries:
   - title: about me
     entries:
-      - title: aspiring software engineer
-      - title: intern @ atlassian in 2023/2024
-      - title: based in australia
+      - title: software engineer, based in australia
+      - title: 23/24 intern @ atlassian
+
+  - title: socials
+    entries:
+      - title: linkedin
+        url: https://www.linkedin.com/in/haydenwc/
+      - title: email
+        url: mailto:hydnwc@gmail.com
+
+  - title: stuff
+    entries:
+      - title: blog archive
+        url: archive.html
+
+      - title: recipes
+        url: recipes.html
 
   - title: recent posts
     post_list:
@@ -15,11 +29,3 @@ entries:
       show_more_text: see more...
       show_more_url: archive.html
 
-
-
-  - title: links
-    entries:
-      - title: blog
-        url: archive.html
-      - title: linkedin
-        url: https://www.linkedin.com/in/haydenwc/
