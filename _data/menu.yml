@@ -2,11 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: me
+  - title: <b>hayden cooper</b>
     entries:
       - title: software engineer
       - title: based in australia
-      - title: 23/24 intern @ atlassian
+      - title: current intern @ atlassian
 
   - title: socials
     entries:
