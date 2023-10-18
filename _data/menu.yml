@@ -4,11 +4,14 @@
 entries:
   - title: about me
     entries:
-      - title: software engineer, based in australia
+      - title: incompetent software engineer
+      - title: based in australia
       - title: 23/24 intern @ atlassian
 
-  - title: socials
+  - title: find me
     entries:
+      - title: github
+        url: https://haydenc.dev
       - title: linkedin
         url: https://www.linkedin.com/in/haydenwc/
       - title: email
@@ -18,6 +21,8 @@ entries:
     entries:
       - title: recipes
         url: recipes.html
+      - title: resume
+        url: resume.html
 
   - title: blog posts
     post_list:

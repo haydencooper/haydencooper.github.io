@@ -16,14 +16,15 @@ categories: recipes
 
 ### steps
 
-in a 3-quart saucepan, combine oil, onion, garlic, and chiles. set over medium-high heat and cook, stirring occasionally, until the onion turns pale golden around the edges, about 5 minutes.
+1. in a 3-quart saucepan, combine oil, onion, garlic, and chiles. set over medium-high heat and cook, stirring occasionally, until the onion turns pale golden around the edges, about 5 minutes.
 
-add tomatoes, and reduce heat to medium. cover, and cook at a simmer until tomatoes just begin to soften around the edges, about 5 minutes.
+2. add tomatoes, and reduce heat to medium. cover, and cook at a simmer until tomatoes just begin to soften around the edges, about 5 minutes.
 
-carefully transfer contents of the saucepan to the jar of a countertop blender. blend on high speed until smooth, 30 seconds to 1 minute. 
+3. carefully transfer contents of the saucepan to the jar of a countertop blender. blend on high speed until smooth, 30 seconds to 1 minute. 
 
-transfer salsa to a heatproof container, and set aside to cool at room temperature. once salsa has cooled to room temperature, season with salt to taste, and serve.
+4. transfer salsa to a heatproof container, and set aside to cool at room temperature. once salsa has cooled to room temperature, season with salt to taste, and serve.
 
+### storage
 leftover salsa can be refrigerated in an airtight container for up to 2 weeks.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
