@@ -12,17 +12,14 @@ entries:
       - title: linkedin
         url: https://www.linkedin.com/in/haydenwc/
       - title: email
-        url: mailto:hydnwc@gmail.com
+        url: mailto:me@haydenc.dev
 
   - title: stuff
     entries:
-      - title: blog archive
-        url: archive.html
-
       - title: recipes
         url: recipes.html
 
-  - title: recent posts
+  - title: blog posts
     post_list:
       limit: 8
       show_more: true
