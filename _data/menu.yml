@@ -2,13 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <b>hayden cooper</b>
-    entries:
-      - title: software engineer
-      - title: based in australia
-      - title: current intern @ atlassian
-
-  - title: socials
+  - title: me
     entries:
       - title: github
         url: https://haydenc.dev
@@ -24,7 +18,7 @@ entries:
       - title: resume
         url: resume.html
 
-  - title: blog
+  - title: recent posts
     post_list:
       limit: 8
       show_more: true
