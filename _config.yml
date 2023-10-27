@@ -6,7 +6,16 @@ baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're sit
 description: > # description of the site (multiple lines allowed)
   hayden cooper <br>
   software engineer <br>
-  based in australia
+  based in australia <br> <br>
+  
+  <b>contact</b> <br>
+  <a href="https://haydenwc.dev">github</a> <br>
+  <a href="https://linkedin.com/in/haydenwc">linkedin</a> <br>
+  <a href="mailto:me@haydenc.dev">email</a> <br> <br>
+  <b> my stuff </b> <br>
+  <a href="recipes.html">recipes</a> <br>
+  <a href="resume.html">resume</a> <br>
+  <a href="archive.html">blog</a> <br>
 
 permalink: /:slug.html
 
