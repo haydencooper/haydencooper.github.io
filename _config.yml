@@ -4,7 +4,7 @@ email: hydnwc@gmail.com # email of site's author
 url: haydencooper.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  hayden cooper <br>
+  <b>hayden cooper</b> <br>
   software engineer <br>
   based in australia <br> <br>
   
@@ -12,10 +12,11 @@ description: > # description of the site (multiple lines allowed)
   <a href="https://haydenwc.dev">github</a> <br>
   <a href="https://linkedin.com/in/haydenwc">linkedin</a> <br>
   <a href="mailto:me@haydenc.dev">email</a> <br> <br>
-  <b> my stuff </b> <br>
+  <b>stuff</b> <br>
   <a href="recipes.html">recipes</a> <br>
   <a href="resume.html">resume</a> <br>
   <a href="archive.html">blog</a> <br>
+  
 
 permalink: /:slug.html
 
