@@ -1,4 +1,7 @@
+
 @import url('https://fonts.cdnfonts.com/css/poppins');
+@import url("https://p.typekit.net/p.css?s=1&k=hwl7zrr&ht=tk&f=24427.24539.24547&a=7530655&app=typekit&e=css");
+
 @mixin dark-appearance {
   filter: invert(1);
   img {
@@ -20,8 +23,8 @@ html { height: 100%; }
 
 body {
   color: #F8EDE3;
-  font-family: Poppins;
-  max-width: 40rem;
+  font-family: Monospace;
+  line-height: 1.4;
   margin: 0;
   min-height: 100%;
 
