@@ -1,22 +1,19 @@
 title: "" # name of the site
-author: hayden cooper # name of site's author
+author: "" # name of site's author
 email: hydnwc@gmail.com # email of site's author
 url: haydencooper.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <b>hayden cooper</b> <br>
-  software engineer <br>
-  based in australia <br> <br>
-  
-  <b>contact</b> <br>
-  <a href="https://haydenwc.dev">github</a> <br>
-  <a href="https://linkedin.com/in/haydenwc">linkedin</a> <br>
-  <a href="mailto:me@haydenc.dev">email</a> <br> <br>
-  <b>stuff</b> <br>
-  <a href="recipes.html">recipes</a> <br>
-  <a href="resume.html">resume</a> <br>
-  <a href="archive.html">blog</a> <br>
-  
+  <b>Hayden Cooper</b> <br>
+  Software Engineer <br>
+  Based in Australia <br> <br>
+   
+  <a href="https://haydenwc.dev">GitHub</a> <br>
+  <a href="https://linkedin.com/in/haydenwc">LinkedIn</a> <br>
+  <a href="mailto:me@haydenc.dev">Email</a> <br>
+  <a href="recipes.html">Recipes</a> <br>
+  <a href="resume.html">Resume</a> <br>
+  <a href="archive.html">Blog</a> 
 
 permalink: /:slug.html
 
