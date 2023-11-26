@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "colour reference"
+title:  "Colour Reference"
 date:   2023-10-17 12:08:44 +0800
 categories: study
 ---

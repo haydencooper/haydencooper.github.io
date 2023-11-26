@@ -22,7 +22,7 @@ html { height: 100%; }
 
 body {
 transition: 1s;
-  color: #EBE3D5;
+  color: #e5e5e5;
   font-family: Inter;
   font-size: 14px;
   line-height: 1.6;
@@ -33,9 +33,6 @@ transition: 1s;
 
 }
 
-a, a:visited, a:hover, a:active {
-  color: inherit;
-}
 
 .post-meta { text-align: right; }
 
@@ -99,13 +96,14 @@ img {
 
 a {
   text-decoration: underline grey;
-  text-underline-offset: 0.2rem;
+  text-underline-offset: 0.25rem;
+  color: #e5e5e5;
 
 }
 
 a:hover {
   transition: 0.3s;
-  text-decoration: underline white;
+  text-decoration: underline #D3D3D3;
 }
 
 
@@ -122,4 +120,23 @@ body {
     100% {
         opacity: 1;
      }
+}
+
+#hayden {
+font-size: 15px;
+color: #e5e5e5;
+}
+
+#name1 {
+font-size: 0;
+}
+
+.beauty {
+font-family: newsreader;
+font-style: italic;
+font-size: 15px;
+}
+
+#contact {
+font-size: 14px;
 }

@@ -4,16 +4,21 @@ email: hydnwc@gmail.com # email of site's author
 url: haydencooper.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <b>Hayden Cooper</b> <br>
-  Software Engineer <br>
-  Based in Australia <br> <br>
-   
-  <a href="https://haydenwc.dev">GitHub</a> <br>
-  <a href="https://linkedin.com/in/haydenwc">LinkedIn</a> <br>
-  <a href="mailto:me@haydenc.dev">Email</a> <br>
+  <div id="hayden"><b>Hayden Cooper</b></div><br>
+  Enamoured with <span class="beauty">beauty in simplicity.</span> Aspiring to build wholeheartedly, embrace unknowns and approach engineering with childlike curiosity.  Currently working <a href="https://atlassian.com">Atlassian</a>.  <br> <br> 
+  
+  <b>Connect</b> <br>
+     Reach me via <a href="https://linkedin.com/in/haydenwc">LinkedIn</a> or <a href="mailto:hydnwc@gmail.com">email</a>. <br> <br>
+  
+  <b>Links</b> <br>
+  <a href="https://haydenc.dev">Projects</a> <br>
   <a href="recipes.html">Recipes</a> <br>
   <a href="resume.html">Resume</a> <br>
-  <a href="archive.html">Blog</a> 
+  <a href="archive.html">Blog</a> <br> <br>
+  
+  
+
+ 
 
 permalink: /:slug.html
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hello world"
+title:  "Hello World"
 date:   2023-10-17 12:04:44 +0800
 categories: life
 ---
