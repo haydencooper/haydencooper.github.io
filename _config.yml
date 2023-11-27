@@ -1,4 +1,4 @@
-title: "" # name of the site
+title: "Hayden Cooper" # name of the site
 author: "" # name of site's author
 email: hydnwc@gmail.com # email of site's author
 url: haydencooper.github.io # root address of the site
@@ -7,17 +7,6 @@ description: > # description of the site (multiple lines allowed)
   <div id="hayden"><b>Hayden Cooper</b></div><br>
   Enamoured with <span class="beauty">beauty in simplicity.</span> Aspiring to build wholeheartedly, embrace unknowns and approach engineering with childlike curiosity.  Currently working at <a href="https://atlassian.com">Atlassian</a>.  <br> <br> 
   
-  <b>Connect</b> <br>
-     Reach me via <a href="https://linkedin.com/in/haydenwc">LinkedIn</a> or <a href="mailto:hydnwc@gmail.com">email</a>. <br> <br>
-  
-  <b>Links</b> <br>
-  <a href="https://haydenc.dev">Projects</a> <br>
-  <a href="recipes.html">Recipes</a> <br>
-  <a href="resume.html">Resume</a> <br>
-  <a href="archive.html">Blog</a> <br> <br>
-  
-  
-
  
 
 permalink: /:slug.html
@@ -29,8 +18,8 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%m-%d-%Y" # customize how date is formatted
+  back_home_text: "Back" # customize text for homepage link in post layout
+  date_format: "%-d %B, %Y     " # customize how date is formatted
   show_description: true # show blog description in home page
 
 sass:
