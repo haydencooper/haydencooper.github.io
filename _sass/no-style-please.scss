@@ -21,8 +21,7 @@ html, body { background: #141516; }
 html { height: 100%; }
 
 body {
-transition: 1s;
-  color: #A9A9A9;
+  color:  #A9A9A9;
   font-family: Inter;
   font-size: 14px;
   line-height: 1.6;
@@ -135,8 +134,19 @@ font-size: 0;
 font-family: newsreader;
 font-style: italic;
 font-size: 15px;
+color: #e5e5e5;
 }
 
 #contact {
 font-size: 14px;
+}
+
+h4 {
+color: #A9A9A9;
+}
+
+footer {
+font-family: newsreader;
+font-style: italic;
+font-size: 12px;
 }

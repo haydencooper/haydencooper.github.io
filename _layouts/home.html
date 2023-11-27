@@ -5,23 +5,23 @@ layout: default
 
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
+  <br>
   {%-endif-%}
-
-
-  <b>Navigation</b> <br> <br>
-  <a href="https://haydenc.dev">Projects</a> <br>
-  <a href="recipes.html">Recipes</a> <br>
-  <a href="resume.html">Resume</a> <br>
+  <b>Navigate</b> <br> <br>
+  <a href="https://haydenc.dev">Projects</a>
+  <br>
+  <a href="recipes.html">Recipes</a>
+  <br>
+  <a href="resume.html">Resume</a>
+  <br>
   <a href="archive.html">Archive</a> <br> <br> <br>
 
   <b>Connect</b> <br> <br>
-  Email &nbsp; &nbsp; &nbsp; &nbsp;             <a href="mailto:hello@haydenc.dev">hello@haydenc.dev</a> <br>
-  Twitter &nbsp; &nbsp; &nbsp; &nbsp;             <a href="https://twitter.com/haydencooper">@haydencooper</a> <br>
-  LinkedIn &nbsp; &nbsp; &nbsp; &nbsp;             <a href="https://linkedin.com/in/haydenwc">@haydenwc</a> <br> <br> <br>
-
+  Email &nbsp; &nbsp;         <a href="mailto:hello@haydenc.dev">hello@haydenc.dev</a> <br>
+  Twitter &nbsp; &nbsp;           <a href="https://twitter.com/haydencooper">@haydencooper</a> <br>
+  LinkedIn &nbsp; &nbsp;           <a href="https://linkedin.com/in/haydenwc">@haydenwc</a> <br> <br> <br>
 
 </header>
-
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}
