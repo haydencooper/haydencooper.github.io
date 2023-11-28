@@ -35,7 +35,7 @@ body {
 
 .post-meta { text-align: right; }
 
-h2, h3, h4, h5, h6 { margin-top: 3rem; }
+h2, h3, h4, h5, h6 { margin-top: 3rem; color: #e5e5e5; }
 
 hr { margin: 2rem 0; }
 
@@ -70,6 +70,7 @@ table, th, td {
 code {
   color: white;
   background: black;
+  font-family: inter;
 }
 
 div.highlighter-rouge code {
