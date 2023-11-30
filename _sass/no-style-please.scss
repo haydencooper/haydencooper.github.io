@@ -16,12 +16,12 @@ body[a="dark"] { @include dark-appearance; }
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
-html, body { background: #141516; }
+html { background: #101112; }
 
 html { height: 100%; }
 
 body {
-  color:  #A9A9A9;
+  color:  #aca59a;
   font-family: Inter;
   font-size: 14px;
   line-height: 1.6;
@@ -35,7 +35,7 @@ body {
 
 .post-meta { text-align: right; }
 
-h2, h3, h4, h5, h6 { margin-top: 3rem; color: #e5e5e5; }
+h2, h3, h4, h5, h6 { margin-top: 3rem; color: #dddad5; }
 
 hr { margin: 2rem 0; }
 
@@ -97,7 +97,7 @@ img {
 a {
   text-decoration: underline grey;
   text-underline-offset: 0.25rem;
-  color: #e5e5e5;
+  color: #dddad5;
 
 }
 
@@ -124,7 +124,7 @@ body {
 
 #hayden {
 font-size: 15px;
-color: #e5e5e5;
+color: #d8d4cf;
 }
 
 #name1 {
@@ -135,7 +135,7 @@ font-size: 0;
 font-family: newsreader;
 font-style: italic;
 font-size: 15px;
-color: #e5e5e5;
+color: #dddad5;
 }
 
 #contact {
@@ -143,7 +143,7 @@ font-size: 14px;
 }
 
 h4 {
-color: #A9A9A9;
+color: #dddad5;
 }
 
 footer {
