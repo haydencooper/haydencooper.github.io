@@ -1,33 +1,17 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Newsreader:ital,opsz,wght@0,6..72,200;0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;0,6..72,800;1,6..72,200;1,6..72,300;1,6..72,400;1,6..72,500;1,6..72,600;1,6..72,700;1,6..72,800&family=Poppins:wght@100;400&display=swap');
-
-@mixin dark-appearance {
-  filter: invert(1);
-  img {
-    filter: invert(1);
-
-    &.ioda { filter: invert(0); }
-  }
-}
-
-body[a="dark"] { @include dark-appearance; }
-
-
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
-}
-html { background: #101112; }
+@import url('satoshi.css');
+html { background: #435663; }
 
 html { height: 100%; }
 
 body {
-  color:  #aca59a;
-  font-family: Inter;
-  font-size: 14px;
+  color:  #FFFAEE;
+  font-family: Satoshi-Regular, serif;
+  font-size: 17px;
   line-height: 1.6;
   margin: 0;
   min-height: 100%;
-
   overflow-wrap: break-word;
 
 }
@@ -35,7 +19,7 @@ body {
 
 .post-meta { text-align: right; }
 
-h2, h3, h4, h5, h6 { margin-top: 3rem; color: #dddad5; }
+h2, h3, h4, h5, h6 { margin-top: 3rem;color: #FFFAEE; }
 
 hr { margin: 2rem 0; }
 
@@ -95,15 +79,13 @@ img {
 }
 
 a {
-  text-decoration: underline grey;
   text-underline-offset: 0.25rem;
-  color: #dddad5;
-
+  color:  #FFFAEE;
 }
 
 a:hover {
   transition: 0.3s;
-  text-decoration: underline #D3D3D3;
+  text-decoration: underline #FFFAEE;
 }
 
 
@@ -123,31 +105,12 @@ body {
 }
 
 #hayden {
-font-size: 15px;
-color: #d8d4cf;
-}
-
-#name1 {
-font-size: 0;
+font-size: 30px;
 }
 
 .beauty {
-font-family: newsreader;
+  font-family: newsreader, serif;
 font-style: italic;
-font-size: 15px;
-color: #dddad5;
-}
-
-#contact {
-font-size: 14px;
-}
-
-h4 {
-color: #dddad5;
-}
-
-footer {
-font-family: newsreader;
-font-style: italic;
-font-size: 12px;
+font-size: 17px;
+  color:  #FFFAEE;
 }
