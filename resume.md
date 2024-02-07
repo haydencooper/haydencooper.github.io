@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-# Hayden Cooper
 Perth, WA
 0407155581  
 hydnwc@gmail.com  
