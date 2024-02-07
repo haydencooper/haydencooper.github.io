@@ -4,7 +4,7 @@ email: hydnwc@gmail.com # email of site's author
 url: haydencooper.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <div id="hayden"><b>Hayden Cooper</b></div>
+  <div id="hayden"><b>HaydenCooper</b></div>
   
  
 
