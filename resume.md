@@ -1,11 +1,6 @@
 ---
 layout: page
 ---
-Perth, WA
-hydnwc@gmail.com  
-[Website](http://haydenc.dev) 
-[LinkedIn](https://linkedin.com/in/haydenwc/)
-
 ## Education
 
 **Goanna Education**
