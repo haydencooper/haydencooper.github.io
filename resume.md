@@ -39,20 +39,6 @@ Diploma of Information Technology *(May  2022 – February  2023)*
 - Conducted regular performance testing to ensure the robustness and reliability of the new metrics system.
 - Presented project updates and key findings at weekly TechOps meetings, fostering effective communication and collaboration within the team.
 
-## Projects
-
-**MusoPlan** *(September  2022)*
-
-- Developed a Command Line Interface (CLI) application using Test Driven Development (TDD) and Object Oriented Programming (OOP) principles. This automated the process of hiring and deploying musicians for a contracting company, improving operational efficiency.
-- Implemented a function that generates cost reports and exports them into text files, providing clear and accessible financial insights for stakeholders.
-- Managed the lifecycle of the project independently, including version control using GitHub.
-
-**MedRemote** *(October  2022)*
-
-- Created a cloud-based web platform for a medical practice using AWS services, streamlining patient records management and communication between healthcare providers.
-- Integrated x-ray uploads and record lookup functionality, enhancing platform usability and reliability.
-- Executed a migration from Elastic File System (EFS) to Amazon Simple Storage Service (S3), optimizing storage scalability and cost-effectiveness.
-
 ## Technical Skills
 
 - Languages: Java, Go, TypeScript, JavaScript, HTML/CSS, PHP, SQL
