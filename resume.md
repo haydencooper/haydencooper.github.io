@@ -13,7 +13,7 @@ Diploma of Information Technology *(May  2022 – February  2023)*
 
 **Software Engineer Intern - Jira Issue Extraction** *(November  2023 – February  2024)*
 
-*Atlassian* - Java, Kotlin *(Remote)*
+Atlassian - Java, Kotlin *(Remote)*
 
 - Developed and implemented support for cloning of ADF (Atlassian Document Format) attachments within the Jira Issue View.
 -  Utilized CI/CD pipelines to automate the build, test, and deployment processes, ensuring rapid delivery of features and improvements.
@@ -25,7 +25,7 @@ Diploma of Information Technology *(May  2022 – February  2023)*
 
 **Student Developer - Network Fabric Integrations** *(February  2023 – May  2023)*
 
-*Atlassian* - Go, TypeScript *(Remote)*
+Atlassian - Go, TypeScript *(Remote)*
 
 - Spearheaded the integration of traceable metrics on the NFI platform, significantly enhancing observability and simplifying troubleshooting processes for the team.
 - Led the successful refactoring of our test suite and codebase, leading to improved code reusability and readability, and reduced unnecessary code, thus boosting development efficiency.
