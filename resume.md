@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 ---
 ## Education
 
@@ -17,7 +16,7 @@ Diploma of Information Technology *(May  2022 – February  2023)*
 Atlassian - Java, Kotlin *(Remote)*
 
 - Developed and implemented support for cloning of ADF (Atlassian Document Format) attachments within the Jira Issue View.
--  Utilized CI/CD pipelines to automate the build, test, and deployment processes, ensuring rapid delivery of features and improvements.
+-  Utilised CI/CD pipelines to automate the build, test, and deployment processes, ensuring rapid delivery of features and improvements.
 - Authored build scripts to manage dependencies and compile code, contributing to efficient and reliable software builds.
 - Designed and executed comprehensive unit and integration tests for newly introduced features, ensuring optimal performance and reliability. Refined existing tests as required, ensuring they remained relevant and effective.
 - Deployed observability metrics and dashboards to effectively monitor the impact of my changes. This facilitated real-time monitoring and provided actionable insights for continuous improvement.
