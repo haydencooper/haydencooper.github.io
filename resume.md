@@ -2,14 +2,6 @@
 layout: page
 title: "Hayden Cooper"
 ---
-## Education
-
-**Goanna Education**
-
-Diploma of Information Technology *(May  2022 – February  2023)*
-
-- Specialising in Front End Development and Cloud Architecture
-
 ## Experience
 
 **Software Engineer Intern - Jira Issue Extraction** *(November  2023 – February  2024)*
